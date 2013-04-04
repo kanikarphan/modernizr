@@ -1,0 +1,31 @@
+.icon-html5,
+.icon-css3,
+.icon-chrome,
+.icon-firefox,
+.icon-IE,
+.icon-safari {
+  background-image: url(../img/sprites.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 128px;
+  width: 128px
+}
+.icon-html5 {
+  background-position: 0 0;
+}
+.icon-css3 {
+  background-position: -256px 0;
+}
+.icon-chrome {
+  background-position: -512px 0;
+}
+.icon-firefox {
+  background-position: -768px 0;
+  width: 134px;
+}
+.icon-IE {
+  background-position: -1024px 0;
+}
+.icon-safari {
+  background-position: -1280px 0;
+}
