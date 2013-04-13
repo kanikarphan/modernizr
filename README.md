@@ -6,7 +6,7 @@ Modernizr does not enable HTML5 and CSS3 functionalities in browsers that do not
 * Modernizr also creates a JavaScript object, simply called Modernizr, which has a list of properties that contain boolean values for each feature.
 * Modernizr.load can be used for loading polyfills scripts only in the browsers that need it.
 
-## Getting Started with Modernizr
+## Getting started with Modernizr
 Include 'modernizr-2.6.2.min.js' in the page's `<head>` section or <a href="http://modernizr.com/download/" target="_blank">build your own</a>.
 
 This is the <a href="http://modernizr.com/download/#-fontface-backgroundsize-borderradius-boxshadow-opacity-rgba-textshadow-cssanimations-generatedcontent-cssgradients-csstransforms-csstransforms3d-csstransitions-canvas-canvastext-draganddrop-hashchange-history-input-inputtypes-localstorage-postmessage-sessionstorage-websockets-geolocation-svg-touch-printshiv-mq-cssclasses-addtest-prefixed-teststyles-testprop-testallprops-hasevent-prefixes-domprefixes-load" target="_blank">development version that is being used</a>.
