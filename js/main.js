@@ -1,4 +1,10 @@
-﻿var modz = (function ($, window, document, undefined) {
+﻿/*  Modernizr Demo
+    Author: Kanikar
+    Info: https://github.com/kanikarphan/modernizr
+    Licensed under the MIT license
+*/
+
+var modz = (function ($, window, document, undefined) {
   $(document).ready(function () {
     modz.run();
   });
@@ -28,5 +34,4 @@
       }
     }
   };
-  // parameters: jQuery, window, document.
 })(jQuery, window, document);
